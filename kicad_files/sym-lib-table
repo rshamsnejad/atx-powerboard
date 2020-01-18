@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name atx-powerboard-custom)(type Legacy)(uri ${KIPRJMOD}/atx-powerboard-custom.lib)(options "")(descr ""))
+)
